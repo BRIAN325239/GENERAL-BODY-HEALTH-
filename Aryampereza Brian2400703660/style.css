@@ -1,0 +1,105 @@
+*{
+    background-color:aquamarine;
+    margin: 1px;
+    padding: 1px;
+    padding-bottom: 1px;
+    box-sizing: border-box;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+
+    
+}
+ 
+.logo,img{
+    width: 100%;
+    height: 80px;
+    height: auto;
+    margin-bottom: 20px;
+    padding: 5px;
+    
+    
+
+    text-align: center;
+    align-self: center;
+    alligh-items: center;
+    
+}   
+logo{
+    text-align: center;
+    color: white;
+    background-color: blue;
+    padding: 5px;
+    
+} 
+
+    
+    
+
+
+about,img {
+    height: 300px;
+    width: 300px;
+    padding: 2px;
+    align-items: center;
+    background-color: gold;
+}
+input, button {
+    width: 50%;
+    margin: 3px;
+    margin-bottom: 5px;
+    border-color: blue;
+    
+    
+}
+form{
+    text-align: center;
+}
+.banner video{
+    width: 100%;
+    padding: 5px;
+    
+    
+
+}
+image , h3 , h2 ,h3,ul, h4 ,h1 , p{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 2rem 0;
+    margin-top: 2rem;
+    margin-bottom: 5px;
+    -webkit-text-fill-color: brown;
+    border-color: blueviolet;
+}
+.pic{
+    background: transparent;
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border-radius: 10px;
+    height: auto;
+    width: 180px;
+}
+body{
+    text-align: center;
+}
+banner,video{
+    background: red;
+}
+a:hover{
+    text-decoration: underline;
+}
+.image-text-section{
+    max-width: 100%;
+    border-radius: 10px;
+    height: auto;
+     box-shadow: 0 3px 10px rgb(red, green, blue) ;
+
+    
+}
+
+
+
+
